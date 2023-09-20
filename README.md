@@ -35,5 +35,6 @@ Overall, this project expanded my programming skills, especially in developing l
 
 ## References
 
-The initial inspiration for this project came from this YouTube tutorial, which served as a foundation for my work: https://youtu.be/NCgN4qtbh2Q 
+The initial inspiration for this project came from this YouTube tutorial, which served as a foundation for my work: https://youtu.be/NCgN4qtbh2Q. 
+
 I got the file with 5-letter words from here: https://github.com/charlesreid1/five-letter-words/blob/master/sgb-words.txt 
